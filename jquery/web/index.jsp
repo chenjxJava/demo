@@ -15,6 +15,13 @@
 	<div style="margin-left: 50px"><a href="jsp/demo1.jsp"><h1>测试&nbsp;</h1></a></div>
 
 	<h1>echart</h1>
-	<div style="margin-left: 50px"><a href="html/echart/demo1.html"><h1>简单表格&nbsp;</h1></a></div>
+	<div style="margin-left: 50px"><a href="html/echart/echart1.html"><h1>简单表格&nbsp;</h1></a></div>
+
+
+	<p></p>
+	<div style="margin-left: 50px"><a href="../../jquery/web/html/webupload/demo1.html"><h1>图片上传&nbsp;</h1></a></div>
+
+	<h1>demo2</h1>
+	<div style="margin-left: 50px"><a href="../../jquery/web/html/webupload/demo2.html"><h1>图pain下载&nbsp;</h1></a></div>
 </body>
 </html>
