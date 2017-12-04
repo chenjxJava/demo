@@ -8116,5 +8116,5 @@
 	], function (preset) {
 		return preset;
 	});
-	return require('webuploader');
+	return require('web/modules/webuploader/js/webuploader/webuploader');
 });
