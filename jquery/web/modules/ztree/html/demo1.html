@@ -6,11 +6,17 @@
 <link rel="stylesheet" href="../css/demo.css" type="text/css">
 <link rel="stylesheet" href="../css/zTreeStyle/zTreeStyle.css" type="text/css">
 <script type="text/javascript" src="../js/jquery-1.4.4.min.js"></script>
-<script type="text/javascript" src="../js/jquery.ztree.core.min.js"></script>
+<script type="text/javascript" src="../js/jquery.ztree.all.min.js"></script>
 <SCRIPT LANGUAGE="JavaScript">
 	var zTreeObj;
 	// zTree 的参数配置，深入使用请参考 API 文档（setting 配置详解）
-	var setting = {};
+	var setting = {
+        check: {
+            enable: true,
+            chkStyle: "checkbox",
+            chkboxType: { "Y": "ps", "N": "ps" }
+        }
+	};
 	// zTree 的数据属性，深入使用请参考 API 文档（zTreeNode 节点数据详解）
 	var zNodes = [
 		{name:"test1", open:true, children:[
