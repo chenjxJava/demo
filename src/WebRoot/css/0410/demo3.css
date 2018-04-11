@@ -1,0 +1,29 @@
+body .header {
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+body .nav {
+	line-height: 30px;
+	background-color: #eeeeee;
+	height: 300px;
+	width: 100px;
+	float: left;
+	padding: 5px;
+}
+
+body .section {
+	width: 350px;
+	float: left;
+	padding: 10px;
+}
+
+body .footer {
+	background-color: black;
+	color: white;
+	clear: both;
+	padding: 5px;
+	text-align: center;
+}

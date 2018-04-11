@@ -1,0 +1,13 @@
+body{background: url(../../image/backgroud/eg_background.jpg)}
+p {
+	text-indent: 2em;
+	border: solid 1px black;
+	width: 350px;
+	height: 22px;
+}
+
+#customers {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width: 100%;
+	border-collapse: collapse;
+}

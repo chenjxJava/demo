@@ -1,0 +1,19 @@
+p {
+	color: blue;
+	padding: 17px;
+	font-size: 20px;
+}
+
+.div1 {
+	color: #1abc9c;
+	padding: 30px;
+	font-size: 30px;
+}
+
+h1 {
+	padding: 15px;
+}
+
+body {
+	background: url("../../image/backgroud/eg_background.jpg");
+}

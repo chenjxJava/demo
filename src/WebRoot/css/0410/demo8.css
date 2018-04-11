@@ -1,0 +1,7 @@
+/*
+body{background: url(../image/backgroud/eg_background.jpg)}  */
+body {background-color: gray;}
+h1{background-color: #1abc9c}
+h2{background-color: red}
+p{background-color: darkseagreen}
+p.no2{background-color: bisque}
